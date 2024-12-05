@@ -22,3 +22,10 @@ mapped_key = sorted_keys[(index)]
 # Solution 3
 
 I just changed the Get method to post method in the submit route. And I changed the variable name from name to person-name, the way it was declared in the HTML script.
+
+# Solution 4
+
+3 changes:
+ - change nums.length to nums.length - 1 in the calling of the reverse functions
+ - change k to k-1 in the calling of the reverse function
+ - Within the definition of the reverse function, change end++ to end--
