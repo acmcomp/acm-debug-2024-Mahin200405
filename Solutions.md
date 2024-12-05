@@ -18,3 +18,7 @@ It would work even if you just wrote this:
 ```Python
 mapped_key = sorted_keys[(index)]
 ```
+
+# Solution 3
+
+I just changed the Get method to post method 
