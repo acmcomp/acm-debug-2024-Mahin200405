@@ -11,7 +11,7 @@ function reverse(nums, start, end) {
         let temp = nums[start];
         nums[start] = nums[end];
         nums[end] = temp;
-        start++;
+        start--;
         end++;
     }
 }
