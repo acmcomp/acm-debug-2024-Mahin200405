@@ -2,7 +2,7 @@
 # ACM Debugging Competition - December 2024
 
 ## Participant Information
-**Name:** **Mahin**  \n
+**Name:** **Mahin**  
 **BITS ID:**   **2022A7PS0139U**
 
 ## Competition Overview
