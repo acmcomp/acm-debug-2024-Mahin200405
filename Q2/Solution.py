@@ -20,6 +20,6 @@ def get_service_description(service_name):
     return services_map[mapped_key]
 
 
-services = get_service_description("serverless")
+services = get_service_description("network")
 print(services)
 
