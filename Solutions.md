@@ -4,9 +4,12 @@ I just removed the class ACM_Debugging_Competition and removed those unnecessary
 
 ##Solution 2
 
-I changed this line from 
+I changed this line from
+```Python
  mapped_key = sorted_keys[(index + len(sorted_keys)) % len(services_name)]
+```
 
 to
-
+```Python
  mapped_key = sorted_keys[(index + len(sorted_keys)) % len(services_map)]
+```
