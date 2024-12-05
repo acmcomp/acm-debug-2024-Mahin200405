@@ -21,4 +21,4 @@ mapped_key = sorted_keys[(index)]
 
 # Solution 3
 
-I just changed the Get method to post method 
+I just changed the Get method to post method in the submit route. And I changed the variable name from name to person-name, the way it was declared in the HTML script.
